@@ -1,0 +1,11 @@
+scikit-learn
+pytorch
+torchvision
+numpy
+mpl_toolkits
+mlxtend
+tqdm
+json
+pandas
+pickle
+notebook
