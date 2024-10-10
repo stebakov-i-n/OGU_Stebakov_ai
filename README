@@ -4,6 +4,7 @@ pip install pandas
 pip install scikit-learn
 pip install jupyter
 pip install matplotlib
+pip install torch
 
 Таблица с результатми выполнения: #TODO
 
