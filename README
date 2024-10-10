@@ -1,6 +1,10 @@
-Таблица с результатми выполнения: 01ПИ https://docs.google.com/spreadsheets/d/1EFbk5zh6-gdM2-AYS6FQKGX86SNvblm3l-rgaM6Sp4Q/edit?usp=sharing
-				  01ПИц https://docs.google.com/spreadsheets/d/1y_tP_5nf-A9C-_0O8qLHHFohcQrt489g0iQ0_ZHgSH8/edit?usp=sharing
-				  01МХ https://docs.google.com/spreadsheets/d/1CGeL6Lu82_sHXkPwvNNIN6cztQoWgwUOBQajbUt__aA/edit?usp=sharing
+Необходимые пакеты для локальной работы:
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install jupyter
+
+Таблица с результатми выполнения: #TODO
 
 Вопросы для защиты:
 
